@@ -1,5 +1,5 @@
 Mitsubishi UART
-=====================
+===============
 
 .. seo::
     :description: Instructions for setting up a Mitsubishi heatpump via UART
